@@ -16,7 +16,7 @@ def generate_matrix(dimensions):
 
     # Probabilidad que se le asignó a cada uno de los obstáculos
     # (basada en las casillas del tablero)
-    arbustos = math.floor((dimensions * dimensions) * 0.4)
+    arbustos = math.floor((dimensions * dimensions) * 0.3)
     lich = math.floor((dimensions * dimensions) * 0.20)
     espadas = math.floor((dimensions * dimensions) * 0.10)
 
