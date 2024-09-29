@@ -4,7 +4,7 @@
 
 Welcome to **Adventure Time: Recursive Uniform Cost Search Game**! In this project, you will help **Finn** navigate a world full of obstacles to reach **Jake** by using an efficient and recursive uniform cost search algorithm.
 
-![Finn and Jake](path/to/your/image.png)
+[Finn and Jake]
 
 ## 📜 Table of Contents
 
@@ -74,7 +74,4 @@ The twist on the standard uniform cost algorithm allows the game to efficiently 
 ## 🖼 Screenshots
 
 ### Gameplay
-
-![Gameplay Screenshot](path/to/your/gameplay_image.png)
-
 ---
